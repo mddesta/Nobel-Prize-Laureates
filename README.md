@@ -19,4 +19,4 @@ The Data for this visualization is obtained through API calls to the Nobel Prize
 
 ## Visualization 
 
-![Tableau Dashboard](https://github.com/mddesta/Nobel-Prize-Winner/Images/Tableau.PNG)
+![Tableau Dashboard](https://github.com/mddesta/Nobel-Prize-Winner/blob/master/Images/Tableau.png)
